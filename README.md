@@ -21,12 +21,19 @@ composer require --dev larastan/larastan
 *   **Deep Linking**: Open files directly in VSCode or other supported editors directly from your browser.
 *   **Easy Integration**: Specifically designed for seamless use within Laravel projects.
 
-Change Color Tone
-Black:
-<img width="1200" height="667" alt="black" src="https://github.com/user-attachments/assets/cff3aa9f-b100-4ee0-a363-162a28bb3b81" />
-
-White:
-<img width="1193" height="671" alt="white" src="https://github.com/user-attachments/assets/0112ed52-bfda-4ef2-97a2-393231f53dd5" />
+Appearance Customization
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/cff3aa9f-b100-4ee0-a363-162a28bb3b81" alt="display" style="max-width:100%;">
+      <br><strong>Black</strong>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/0112ed52-bfda-4ef2-97a2-393231f53dd5" alt="display" style="max-width:100%;">
+      <br><strong>White</strong>
+    </td>
+  </tr>
+</table>
 
 
 ## Installation
