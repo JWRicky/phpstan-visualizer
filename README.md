@@ -44,7 +44,6 @@ You can install the package via Composer:
 composer require jwricky/phpstan-visualizer:^1.0
 ```
 
-> **Note:** If you haven't registered this on Packagist yet, ensure you have the repository URL in your project's `composer.json`.
 
 ## Setup
 
